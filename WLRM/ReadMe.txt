@@ -7,6 +7,8 @@ Luo, T., Zhang, W., Qiu, S., Yang, Y., Yi, D., Wang, G., ... & Wang, J. (2017, A
   In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery 
   and Data Mining (pp. 345-354). ACM.
 
+Meanwhile, we provoide a toy example: experiment_toy.m on the systhetic data, which will help you
+use our package.
 
 ATTN: 
 - This package is free for academic usage. You can run it at your own risk. For other
